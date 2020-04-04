@@ -1,0 +1,11 @@
+C:\Users\julia\source\RefazendoAula\ByteBankRH\02_ByteBankRH\bin\Debug\netcoreapp3.1\02_ByteBankRH.exe
+C:\Users\julia\source\RefazendoAula\ByteBankRH\02_ByteBankRH\bin\Debug\netcoreapp3.1\02_ByteBankRH.deps.json
+C:\Users\julia\source\RefazendoAula\ByteBankRH\02_ByteBankRH\bin\Debug\netcoreapp3.1\02_ByteBankRH.runtimeconfig.json
+C:\Users\julia\source\RefazendoAula\ByteBankRH\02_ByteBankRH\bin\Debug\netcoreapp3.1\02_ByteBankRH.runtimeconfig.dev.json
+C:\Users\julia\source\RefazendoAula\ByteBankRH\02_ByteBankRH\bin\Debug\netcoreapp3.1\02_ByteBankRH.dll
+C:\Users\julia\source\RefazendoAula\ByteBankRH\02_ByteBankRH\bin\Debug\netcoreapp3.1\02_ByteBankRH.pdb
+C:\Users\julia\source\RefazendoAula\ByteBankRH\02_ByteBankRH\obj\Debug\netcoreapp3.1\02_ByteBankRH.csprojAssemblyReference.cache
+C:\Users\julia\source\RefazendoAula\ByteBankRH\02_ByteBankRH\obj\Debug\netcoreapp3.1\02_ByteBankRH.AssemblyInfoInputs.cache
+C:\Users\julia\source\RefazendoAula\ByteBankRH\02_ByteBankRH\obj\Debug\netcoreapp3.1\02_ByteBankRH.AssemblyInfo.cs
+C:\Users\julia\source\RefazendoAula\ByteBankRH\02_ByteBankRH\obj\Debug\netcoreapp3.1\02_ByteBankRH.dll
+C:\Users\julia\source\RefazendoAula\ByteBankRH\02_ByteBankRH\obj\Debug\netcoreapp3.1\02_ByteBankRH.pdb

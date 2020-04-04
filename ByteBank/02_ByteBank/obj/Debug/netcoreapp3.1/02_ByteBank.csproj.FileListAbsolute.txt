@@ -1,0 +1,11 @@
+C:\Users\julia\source\RefazendoAula\ByteBank\02_ByteBank\obj\Debug\netcoreapp3.1\02_ByteBank.csprojAssemblyReference.cache
+C:\Users\julia\source\RefazendoAula\ByteBank\02_ByteBank\obj\Debug\netcoreapp3.1\02_ByteBank.AssemblyInfoInputs.cache
+C:\Users\julia\source\RefazendoAula\ByteBank\02_ByteBank\obj\Debug\netcoreapp3.1\02_ByteBank.AssemblyInfo.cs
+C:\Users\julia\source\RefazendoAula\ByteBank\02_ByteBank\bin\Debug\netcoreapp3.1\02_ByteBank.exe
+C:\Users\julia\source\RefazendoAula\ByteBank\02_ByteBank\bin\Debug\netcoreapp3.1\02_ByteBank.deps.json
+C:\Users\julia\source\RefazendoAula\ByteBank\02_ByteBank\bin\Debug\netcoreapp3.1\02_ByteBank.runtimeconfig.json
+C:\Users\julia\source\RefazendoAula\ByteBank\02_ByteBank\bin\Debug\netcoreapp3.1\02_ByteBank.runtimeconfig.dev.json
+C:\Users\julia\source\RefazendoAula\ByteBank\02_ByteBank\bin\Debug\netcoreapp3.1\02_ByteBank.dll
+C:\Users\julia\source\RefazendoAula\ByteBank\02_ByteBank\bin\Debug\netcoreapp3.1\02_ByteBank.pdb
+C:\Users\julia\source\RefazendoAula\ByteBank\02_ByteBank\obj\Debug\netcoreapp3.1\02_ByteBank.dll
+C:\Users\julia\source\RefazendoAula\ByteBank\02_ByteBank\obj\Debug\netcoreapp3.1\02_ByteBank.pdb
