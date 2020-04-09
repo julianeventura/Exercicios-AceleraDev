@@ -1,0 +1,12 @@
+C:\Users\julia\source\repos\CShp_Exceptions\05_ExceptionExample\bin\Debug\netcoreapp3.1\05_ExceptionExample.exe
+C:\Users\julia\source\repos\CShp_Exceptions\05_ExceptionExample\bin\Debug\netcoreapp3.1\05_ExceptionExample.deps.json
+C:\Users\julia\source\repos\CShp_Exceptions\05_ExceptionExample\bin\Debug\netcoreapp3.1\05_ExceptionExample.runtimeconfig.json
+C:\Users\julia\source\repos\CShp_Exceptions\05_ExceptionExample\bin\Debug\netcoreapp3.1\05_ExceptionExample.runtimeconfig.dev.json
+C:\Users\julia\source\repos\CShp_Exceptions\05_ExceptionExample\bin\Debug\netcoreapp3.1\05_ExceptionExample.dll
+C:\Users\julia\source\repos\CShp_Exceptions\05_ExceptionExample\bin\Debug\netcoreapp3.1\05_ExceptionExample.pdb
+C:\Users\julia\source\repos\CShp_Exceptions\05_ExceptionExample\obj\Debug\netcoreapp3.1\05_ExceptionExample.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\CShp_Exceptions\05_ExceptionExample\obj\Debug\netcoreapp3.1\05_ExceptionExample.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\CShp_Exceptions\05_ExceptionExample\obj\Debug\netcoreapp3.1\05_ExceptionExample.AssemblyInfo.cs
+C:\Users\julia\source\repos\CShp_Exceptions\05_ExceptionExample\obj\Debug\netcoreapp3.1\05_ExceptionExample.dll
+C:\Users\julia\source\repos\CShp_Exceptions\05_ExceptionExample\obj\Debug\netcoreapp3.1\05_ExceptionExample.pdb
+C:\Users\julia\source\repos\CShp_Exceptions\05_ExceptionExample\obj\Debug\netcoreapp3.1\05_ExceptionExample.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\julia\source\repos\BBExceptions\01_BBExceptions\bin\Debug\netcoreapp3.1\01_BBExceptions.exe
+C:\Users\julia\source\repos\BBExceptions\01_BBExceptions\bin\Debug\netcoreapp3.1\01_BBExceptions.deps.json
+C:\Users\julia\source\repos\BBExceptions\01_BBExceptions\bin\Debug\netcoreapp3.1\01_BBExceptions.runtimeconfig.json
+C:\Users\julia\source\repos\BBExceptions\01_BBExceptions\bin\Debug\netcoreapp3.1\01_BBExceptions.runtimeconfig.dev.json
+C:\Users\julia\source\repos\BBExceptions\01_BBExceptions\bin\Debug\netcoreapp3.1\01_BBExceptions.dll
+C:\Users\julia\source\repos\BBExceptions\01_BBExceptions\bin\Debug\netcoreapp3.1\01_BBExceptions.pdb
+C:\Users\julia\source\repos\BBExceptions\01_BBExceptions\obj\Debug\netcoreapp3.1\01_BBExceptions.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\BBExceptions\01_BBExceptions\obj\Debug\netcoreapp3.1\01_BBExceptions.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\BBExceptions\01_BBExceptions\obj\Debug\netcoreapp3.1\01_BBExceptions.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\BBExceptions\01_BBExceptions\obj\Debug\netcoreapp3.1\01_BBExceptions.AssemblyInfo.cs
+C:\Users\julia\source\repos\BBExceptions\01_BBExceptions\obj\Debug\netcoreapp3.1\01_BBExceptions.dll
+C:\Users\julia\source\repos\BBExceptions\01_BBExceptions\obj\Debug\netcoreapp3.1\01_BBExceptions.pdb
+C:\Users\julia\source\repos\BBExceptions\01_BBExceptions\obj\Debug\netcoreapp3.1\01_BBExceptions.genruntimeconfig.cache

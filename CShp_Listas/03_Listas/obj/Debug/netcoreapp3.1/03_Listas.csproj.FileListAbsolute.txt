@@ -1,0 +1,13 @@
+C:\Users\julia\source\RefazendoAula\CShp_Listas\03_Listas\bin\Debug\netcoreapp3.1\03_Listas.exe
+C:\Users\julia\source\RefazendoAula\CShp_Listas\03_Listas\bin\Debug\netcoreapp3.1\03_Listas.deps.json
+C:\Users\julia\source\RefazendoAula\CShp_Listas\03_Listas\bin\Debug\netcoreapp3.1\03_Listas.runtimeconfig.json
+C:\Users\julia\source\RefazendoAula\CShp_Listas\03_Listas\bin\Debug\netcoreapp3.1\03_Listas.runtimeconfig.dev.json
+C:\Users\julia\source\RefazendoAula\CShp_Listas\03_Listas\bin\Debug\netcoreapp3.1\03_Listas.dll
+C:\Users\julia\source\RefazendoAula\CShp_Listas\03_Listas\bin\Debug\netcoreapp3.1\03_Listas.pdb
+C:\Users\julia\source\RefazendoAula\CShp_Listas\03_Listas\obj\Debug\netcoreapp3.1\03_Listas.csprojAssemblyReference.cache
+C:\Users\julia\source\RefazendoAula\CShp_Listas\03_Listas\obj\Debug\netcoreapp3.1\03_Listas.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\RefazendoAula\CShp_Listas\03_Listas\obj\Debug\netcoreapp3.1\03_Listas.AssemblyInfoInputs.cache
+C:\Users\julia\source\RefazendoAula\CShp_Listas\03_Listas\obj\Debug\netcoreapp3.1\03_Listas.AssemblyInfo.cs
+C:\Users\julia\source\RefazendoAula\CShp_Listas\03_Listas\obj\Debug\netcoreapp3.1\03_Listas.dll
+C:\Users\julia\source\RefazendoAula\CShp_Listas\03_Listas\obj\Debug\netcoreapp3.1\03_Listas.pdb
+C:\Users\julia\source\RefazendoAula\CShp_Listas\03_Listas\obj\Debug\netcoreapp3.1\03_Listas.genruntimeconfig.cache
