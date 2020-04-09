@@ -1,0 +1,9 @@
+C:\Users\julia\source\RefazendoAula\DeveloperSquad\DevSquad\bin\Debug\netcoreapp3.1\DevSquad.deps.json
+C:\Users\julia\source\RefazendoAula\DeveloperSquad\DevSquad\bin\Debug\netcoreapp3.1\DevSquad.dll
+C:\Users\julia\source\RefazendoAula\DeveloperSquad\DevSquad\bin\Debug\netcoreapp3.1\DevSquad.pdb
+C:\Users\julia\source\RefazendoAula\DeveloperSquad\DevSquad\obj\Debug\netcoreapp3.1\DevSquad.csprojAssemblyReference.cache
+C:\Users\julia\source\RefazendoAula\DeveloperSquad\DevSquad\obj\Debug\netcoreapp3.1\DevSquad.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\RefazendoAula\DeveloperSquad\DevSquad\obj\Debug\netcoreapp3.1\DevSquad.AssemblyInfoInputs.cache
+C:\Users\julia\source\RefazendoAula\DeveloperSquad\DevSquad\obj\Debug\netcoreapp3.1\DevSquad.AssemblyInfo.cs
+C:\Users\julia\source\RefazendoAula\DeveloperSquad\DevSquad\obj\Debug\netcoreapp3.1\DevSquad.dll
+C:\Users\julia\source\RefazendoAula\DeveloperSquad\DevSquad\obj\Debug\netcoreapp3.1\DevSquad.pdb
