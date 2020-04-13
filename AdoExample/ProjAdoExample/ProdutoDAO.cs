@@ -10,8 +10,8 @@ namespace ProjAdoExample
         private IDbConnection _conexao;
         public ProdutoDAO()
         {
-            _conexao = new SqlConnection(@"Server=<localhost>;Database=<database>;" +
-                "user ID=<user>;password=<password>;Trusted_Connection=False");
+            _conexao = new SqlConnection("Server=<localhost>;Database=<database>;" +
+                "user ID=<user>;password=<password>;Trusted_Connection=True");
             _conexao.Open();
         }
 
